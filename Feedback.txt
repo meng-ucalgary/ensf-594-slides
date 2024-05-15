@@ -1,0 +1,25 @@
+(1) Course Delivery -
+This course (Data Structures and Algorithms) forms the basics of computer science/software engineering. The delivery of the course was way below the university standards. The instructor used to just read the PowerPoint slides during the lecture and gave no explanation of what's going on. No visual demonstrations, no pen-paper explanations (yes, pen-paper illustrations were done in a previous online course ENSF-593), just read the slides. If you don't understand the slides, read them again. I don't believe in spoon-feeding, but if we are paying such high fees for a course, we should be able to get back something in return. It feels like $2218.92 just got wasted.
+
+(2) Further Reference -
+A couple of books were mentioned in the course outline, but they were never followed. Not even a reference was given to the topics, problems, etc, to refer for further reading. Only "slides" were gone through, which covered very few topics. No topic, NO TOPIC was covered in detail.
+
+(3) Quizzes -
+Many times, the questions presented in the quizzes made no sense. For example, asking questions based on the personal choice of the data structure when multiple options can be absolutely correct. These were then fixed manually after the submissions. The question is - why no proofreading before opening up the quiz?
+
+(4) Assignment Clarity -
+Many times, the guidelines for doing the assignments weren't clear. What is expected, what is to be followed, were clarified and added later only when students came back with doubts. So, if nobody is asking questions, then nobody is clear about what to do. This improved a little bit when class representatives reached out to the instructor for this course and voiced our concerns.
+
+(5) Assignment Correctness -
+There were instances when the test cases in the assignments were incorrect. It was revealed only when some students posted their concerns on the Slack channel. They were never acknowledged by the instructor even after pointing those were pointed out to him.
+
+(6) Assignment Grading -
+Assignment grading was way too slow. To give you an idea, read further. Assignment 2 grades were not yet available when Assignment 5 was released. How one is supposed to get feedback and improve when previous grades are unavailable?
+
+(7) Teaching Assistants and the Lab -
+The lab was kept for clearing of the doubts on assignments by the teaching assistants. However, TAs knew nothing. Whenever any question was asked, they always responded the same - "I am not very sure of this. It's best to ask the instructor". It was like either the TAs were also confused on the assignments because of poor clarity or the instructor was not sharing enough information with the TAs.
+
+--------------------------------------------------------------------------------
+
+I really feel ENSF-594 was one of the worst delivered course. Perhaps some training on teaching should be given to the instructor, if some standard has to be maintained.
+
